@@ -9,6 +9,11 @@
     "email": "gursahb7@gmail.com",
     "url": "https://gs-rumana.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gs-rumana/solarized-green",
+    "directory": "/"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
