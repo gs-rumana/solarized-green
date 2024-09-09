@@ -7,3 +7,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.1] - 2024-09-10
+
+### Added
+
+- Added README.md
+- Added LICENSE
+
+## [0.0.2] - 2024-09-10
+
+### Added
+
+- Added logo.png
+
+### Changed
+
+- Updated Colors
+- Updated `package.json`
