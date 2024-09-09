@@ -2,13 +2,14 @@
   "name": "solarized-green",
   "displayName": "Solarized Green",
   "description": "Light theme inspired by VS Code Solarized Light theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "gs-rumana",
   "author": {
     "name": "GS Rumana",
     "email": "gursahb7@gmail.com",
     "url": "https://gs-rumana.com"
   },
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/gs-rumana/solarized-green",
